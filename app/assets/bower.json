@@ -1,0 +1,24 @@
+{
+  "name": "assets",
+  "version": "1.0",
+  "authors": [
+    "M. Shakeeb Khan <shakeeb@thevisionspark.com>"
+  ],
+  "description": "frontend development components",
+  "main": "bower.json",
+  "keywords": [
+    "bower"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0"
+  }
+}

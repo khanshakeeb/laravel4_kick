@@ -1,0 +1,14 @@
+Install nodejs
+==================
+
+Install bower
+================
+$ sudo npm install bower -g // -g indicate global installation
+
+Install bootstrap-less
+=====================
+
+Install grunt package
+========================
+$ sudo npm install -g grunt-cli
+

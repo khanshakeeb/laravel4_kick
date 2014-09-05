@@ -1,0 +1,10 @@
+/vendor
+composer.lock
+/bootstrap/compiled.php
+/app/config/local
+/bootstrap/start.php
+/app/config/testing/database.php
+/node_modules
+/app/assets/bower_components
+
+tests/_output/*
